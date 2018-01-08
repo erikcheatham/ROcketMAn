@@ -1,0 +1,5 @@
+-- Create .NET CORE Console APP AND ADD Discord.NET --
+
+-- CREATE DISCORD BOT USER AND START YOUR CONSOLE APP BEFORE USING LINK BELOW WITH YOUR CLIENTID --
+
+https://discordapp.com/oauth2/authorize?client_id=399970090084335627&scope=bot
